@@ -35,6 +35,6 @@
 
 ###
 
-<p align="left">Estudos em andamento:<br><br>Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti. <br><br>Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</p>
+<h4 align="left">Estudos em andamento:<br><br>Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti. <br><br>Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4>
 
 ###
