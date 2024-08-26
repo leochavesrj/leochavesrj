@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti )</h4><br/>
+<h4 align="left">Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti )</h4>
 
 ###
 
@@ -26,12 +26,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><br/><br/>
 </div>
 
 ###
 
-<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4><br/>
+<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4>
 
 ###
 
@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  /><hr/>
 </div>
 
 ###
