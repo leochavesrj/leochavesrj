@@ -12,12 +12,12 @@
 
 ###
 
-<h4 align="left">Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti.</h4>
+<h4 align="left">Formação Front-end - HTML, CSS, JavaScript, React e + ( curso em andamento pelo site Udemy do professor Matheus Battisti )</h4><br/>
 
 ###
 
+<h4 align="center">Hard Skills do curso:</h4>
 <div align="center">
-  <h1 Hard Skills do curso.</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -31,10 +31,11 @@
 
 ###
 
-<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4>
+<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4><br/>
 
 ###
 
+<h4 align="center">Hard Skills do curso:</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
