@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp em andamento no site Dio )</h4>
+<h4 align="left">Bootcamp Coding The Future XP Inc. - Full Stack Developer  ( bootcamp da XP Inc em andamento no site Dio )</h4>
 
 ###
 
