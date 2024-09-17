@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left"> Coding The Future Ri Happy  Desenvolvimento Front-end do Zero -  ( curso em andamento no site Dio )</h4>
+<h4 align="left"> Coding The Future Ri Happy  Desenvolvimento Front-end do Zero -  ( curso em andamento no site Dio oferecido pelo Grupo Ri Happy )</h4>
 
 ###
 
